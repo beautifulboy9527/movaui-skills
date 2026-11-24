@@ -1,8 +1,8 @@
 {
-  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
-  "name": "com.movaui/catalog-mcp",
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.beautifulboy9527/movaui-catalog",
   "title": "MovaUI Cloud Catalog MCP",
-  "description": "Read-only Streamable HTTP MCP server for MovaUI (movaui.com) — discover curated AI motion website prompts, 60FPS animated backgrounds, and 21 tiered web engineering skills.",
+  "description": "Browse AI motion website prompts, 60FPS looping backgrounds, and frontend Agent Skills.",
   "version": "3.0.0",
   "websiteUrl": "https://movaui.com/skills",
   "repository": {
