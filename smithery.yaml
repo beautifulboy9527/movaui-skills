@@ -1,0 +1,13 @@
+# Smithery / MCP Directory Remote Server Descriptor for MovaUI (https://movaui.com)
+name: movaui-catalog-mcp
+displayName: MovaUI Cloud Catalog MCP
+description: >-
+  Read-only Streamable HTTP MCP for MovaUI (movaui.com): search curated AI motion
+  website prompts, 60FPS loopable web backgrounds, and 21 tiered web design, motion,
+  and pre-release QA skills in Claude Code, Cursor, Windsurf, Codex, and Antigravity.
+homepage: https://movaui.com/skills
+documentation: https://movaui.com/skill.md
+llmsTxt: https://movaui.com/llms.txt
+transport:
+  type: streamable-http
+  url: https://movaui.com/mcp/catalog

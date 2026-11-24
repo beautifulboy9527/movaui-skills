@@ -1,0 +1,18 @@
+{
+  "name": "movaui-skills",
+  "owner": {
+    "name": "MovaUI",
+    "url": "https://movaui.com"
+  },
+  "metadata": {
+    "description": "Official MIT open-source starter skills and Cloud Catalog MCP connector from MovaUI (https://movaui.com).",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "movaui-skills",
+      "source": "./",
+      "description": "Stack adapter, surgical post-baseline editor, deterministic ASCII/pointillist animation pipeline, and MovaUI Cloud Catalog MCP setup."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "route": "live-media-matrix",
+  "entryPoint": "CleanStage.tsx",
+  "colorMode": "color",
+  "phosphorColor": "#17C4C4",
+  "patternMode": "dots",
+  "look": "dots",
+  "grid": {
+    "columns": 120,
+    "rows": 68,
+    "fps": 30,
+    "fontRatio": 1.0,
+    "renderMode": "particles",
+    "particleSize": 8.5,
+    "particleStyle": "dots",
+    "aspectFit": "contain"
+  },
+  "purityPolicy": {
+    "forbidInPageControls": true,
+    "forbidFpsHud": true,
+    "forbidShortcutOverlay": true
+  },
+  "degrade": {
+    "reducedMotion": "still-frame",
+    "noJS": "static-poster-or-pre"
+  },
+  "accessibility": {
+    "role": "img",
+    "ariaLabel": "Pointillist particle field stage"
+  }
+}

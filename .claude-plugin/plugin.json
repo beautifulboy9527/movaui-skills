@@ -1,0 +1,29 @@
+{
+  "name": "movaui-skills",
+  "version": "1.0.0",
+  "description": "Free-tier open-source web engineering skills & Cloud Catalog MCP connector for MovaUI (movaui.com): stack fingerprinting, bounded post-baseline editing, and 1:1 ASCII/pointillist canvas motion.",
+  "homepage": "https://movaui.com/skills",
+  "repository": "https://github.com/beautifulboy9527/movaui-skills",
+  "license": "MIT",
+  "author": {
+    "name": "MovaUI",
+    "url": "https://movaui.com"
+  },
+  "keywords": [
+    "movaui",
+    "mcp",
+    "motion-ui",
+    "agent-skills",
+    "claude-code",
+    "cursor",
+    "ascii-animation",
+    "tailwind",
+    "webgl"
+  ],
+  "skills": [
+    "skills/mova-setup",
+    "skills/stack-adapter-skill",
+    "skills/s3c-post-baseline-editor",
+    "skills/ascii-animation-skill"
+  ]
+}

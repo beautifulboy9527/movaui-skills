@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "route": "live-media-matrix",
+  "entryPoint": "PollutedStage.tsx",
+  "colorMode": "color",
+  "patternMode": "code-matrix",
+  "look": "code-matrix",
+  "grid": {
+    "columns": 160,
+    "rows": 90,
+    "fps": 30,
+    "fontRatio": 0.6,
+    "renderMode": "dom"
+  },
+  "degrade": {
+    "reducedMotion": ""
+  },
+  "accessibility": {
+    "role": "img",
+    "ariaLabel": ""
+  }
+}
