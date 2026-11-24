@@ -28,7 +28,8 @@ node skills/ascii-animation-skill/scripts/validate-ascii-spec.mjs \
 
 ## 相关官方入口
 - 官网首页：[https://movaui.com](https://movaui.com)
-- 21 项云端 Skills 与 MCP 接入中心：[https://movaui.com/skills](https://movaui.com/skills)
+- 免费免登录工具：[60FPS 动效 Prompt 构建器与帧预算检测](https://movaui.com/tools/motion-prompt-builder)
+- 21 项云端 Skills 与 MCP 接入中心：[https://movaui.com/skills](https://movaui.com/skills)（已通过 Glama 一方发布者认证并支持 MCP 2025-03-26 只读注解）
+- 工程博客：[WebGL / Three.js 60FPS 性能预算指南](https://movaui.com/blog/webgl-threejs-60fps-performance-budget-guide) · [MovaUI vs 21st.dev / Magic UI / Aceternity UI 对比](https://movaui.com/blog/movaui-vs-21st-dev-magic-ui-comparison)
 - Agent 自动化配置文档：[https://movaui.com/skill.md](https://movaui.com/skill.md)
 - AI 检索索引：[https://movaui.com/llms.txt](https://movaui.com/llms.txt)
-- 选型对比：[MovaUI vs 21st.dev / Magic UI / Aceternity UI](https://movaui.com/for/movaui-vs-component-libraries)
