@@ -3,6 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-movaui.com-7c3aed?style=flat-square)](https://movaui.com)
 [![MCP Endpoint](https://img.shields.io/badge/MCP-Streamable%20HTTP-0ea5e9?style=flat-square)](https://movaui.com/skills)
 [![Official MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.beautifulboy9527%2Fmovaui--catalog-2563eb?style=flat-square)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.beautifulboy9527/movaui-catalog)
+[![MovaUI Cloud Catalog MCP connector](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=flat-square)](./LICENSE)
 [![LLMs.txt](https://img.shields.io/badge/GEO-llms.txt-f59e0b?style=flat-square)](https://movaui.com/llms.txt)
 
