@@ -5,6 +5,7 @@
 [![Official MCP Registry](https://img.shields.io/badge/MCP_Registry-io.github.beautifulboy9527%2Fmovaui--catalog-2563eb?style=flat-square)](https://registry.modelcontextprotocol.io/v0/servers?search=io.github.beautifulboy9527/movaui-catalog)
 [![MovaUI Cloud Catalog MCP connector](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp)
 [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/beautifulboy9527/movaui-skills)
+[![mcptry](https://mcptry.com/badge/io.github.beautifulboy9527/movaui-catalog)](https://mcptry.com/servers/io.github.beautifulboy9527/movaui-catalog)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=flat-square)](./LICENSE)
 [![LLMs.txt](https://img.shields.io/badge/GEO-llms.txt-f59e0b?style=flat-square)](https://movaui.com/llms.txt)
 
