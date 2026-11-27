@@ -6,6 +6,7 @@
 [![MovaUI Cloud Catalog MCP connector](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.movaui/mova-ui-cloud-catalog-mcp)
 [![Listed on mcpservers.org](https://mcpservers.org/badge.svg)](https://mcpservers.org/servers/beautifulboy9527/movaui-skills)
 [![mcptry](https://mcptry.com/badge/io.github.beautifulboy9527/movaui-catalog)](https://mcptry.com/servers/io.github.beautifulboy9527/movaui-catalog)
+[![SaaSHub Verified](https://img.shields.io/badge/SaaSHub-Verified-16a34a?style=flat-square)](https://www.saashub.com/movaui)
 [![License: MIT](https://img.shields.io/badge/License-MIT-10b981?style=flat-square)](./LICENSE)
 [![LLMs.txt](https://img.shields.io/badge/GEO-llms.txt-f59e0b?style=flat-square)](https://movaui.com/llms.txt)
 
@@ -70,16 +71,21 @@ node skills/ascii-animation-skill/scripts/validate-ascii-spec.mjs \
 
 These 4 MIT starter skills connect seamlessly to the broader **MovaUI · 动境** catalog hosted at [`https://movaui.com`](https://movaui.com):
 
-- **Motion Prompt Library**: [865+ curated AI website motion prompts](https://movaui.com/search) with 60FPS live previews and a 4-field customizer (including 95 free showcase assets).
+- **Motion Prompt Library**: [900+ curated AI website motion prompts](https://movaui.com/search) with 60FPS live previews and a 4-field customizer.
 - **60FPS Animated Backgrounds**: [218 loopable video & shader backgrounds](https://movaui.com/backgrounds) with responsive HTML/React embed code.
 - **Zero-Login Free Utility**: [60FPS Motion Prompt Builder & Frame-Budget Checker](https://movaui.com/tools/motion-prompt-builder) — assemble stack-adapted prompts with DPR caps, viewport pausing, and `prefers-reduced-motion` guardrails with zero signup.
-- **21 Cloud Engineering Skills (`/skills`)**: 3 Free Starter skills (open-sourced right here) + 7 VIP Design & Motion skills + 11 SVIP Quality, SEO/GEO & Release Gate skills accessible on-demand through `/mcp/catalog` (MCP `2025-03-26` standard `Read-only` & `Idempotent` tool annotations; First-Party Verified on Glama).
+- **21 Cloud Engineering Skills (`/skills`)**: 3 Free Starter skills (open-sourced right here) + 7 VIP Design & Motion skills + 11 SVIP Quality, SEO/GEO & Release Gate skills accessible on-demand through `/mcp/catalog` (MCP `2025-03-26` standard `Read-only` & `Idempotent` tool annotations; First-Party Verified on Glama, Security Grade A on mcptry, Verified on [SaaSHub](https://www.saashub.com/movaui)).
 - **Curated Guides & Engineering Dispatches**:
-  - [Claude Code Motion & Landing Page Prompts](https://movaui.com/for/claude-code-motion-prompts)
-  - [Cursor & Windsurf SaaS Landing Page Prompts](https://movaui.com/for/cursor-landing-page-prompts)
-  - [Three.js & WebGL 3D Shader Prompts](https://movaui.com/for/threejs-webgl-shaders)
+  - [From 1.82 MB to 469 kB: React + Vite SPA Bundle Splitting & Canonical Bug Postmortem](https://movaui.com/blog/react-vite-spa-seo-cwv-bundle-canonical-case-study)
+  - [Next.js App Router + Tailwind v4 Motion Hydration Fixes (Framer Motion, GSAP & Lenis)](https://movaui.com/blog/nextjs-tailwind-v4-framer-motion-gsap-hydration-fixes)
   - [WebGL / Three.js 60FPS Performance Budget Guide](https://movaui.com/blog/webgl-threejs-60fps-performance-budget-guide)
   - [MovaUI vs 21st.dev, Magic UI & Aceternity UI](https://movaui.com/blog/movaui-vs-21st-dev-magic-ui-comparison)
+
+<p>
+  <a href="https://www.saashub.com/movaui?utm_source=badge&utm_campaign=badge&utm_content=movaui&badge_variant=color&badge_kind=approved" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn-b.saashub.com/img/badges/approved-color.png?v=1" alt="MovaUI Approved on SaaSHub" width="150" />
+  </a>
+</p>
 
 ---
 
